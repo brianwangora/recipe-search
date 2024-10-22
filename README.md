@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# Recipe Search React Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Documentation
 
-## Available Scripts
+This is a recipe search application built with react. A user can search for recipes on the site.
+
+## Important Commands and Information
 
 In the project directory, you can run:
 
